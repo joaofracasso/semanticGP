@@ -5,8 +5,8 @@ semanticGP
     :target: https://pypi.python.org/pypi/semanticGP
     :alt: Latest PyPI version
 
-.. image:: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal.png
-   :target: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal
+.. image:: https://travis-ci.org/joaofracasso/semanticGP.svg
+   :target: https://travis-ci.org/joaofracasso/semanticGP
    :alt: Latest Travis CI build status
 
 Implementation of Semantic Genetic Programming
