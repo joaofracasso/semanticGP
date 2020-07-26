@@ -9,6 +9,10 @@ semanticGP
    :target: https://travis-ci.org/joaofracasso/semanticGP
    :alt: Latest Travis CI build status
 
+.. image:: https://readthedocs.org/projects/semanticgp/badge/?version=latest
+    :target: https://semanticgp.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 Implementation of Semantic Genetic Programming
 
 Usage
